@@ -24,4 +24,4 @@
    pip install fmpy
    pip install matplotlib
    ```
-2. 
+2. Set parameters within the python code.
